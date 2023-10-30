@@ -32,11 +32,15 @@
 - 💻 API 설계 및 데이터베이스 설계 원칙을 이해하고, 실무에 적용하는 데 능숙합니다.
 
 ## 🛠 Skills
+![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/9e4aa00e-a616-44c2-8380-d53ee2ba8fd3)
+![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/77936a3d-819c-4586-bcb5-722c106b82ca)
+![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/274bd6ac-fa75-4dfc-960b-515899da417c)
 
-- **[Backend]**: Java, Spring Boot, Spring MVC, JPA, JQuery, ERD, AWS (EC2, RDS, Load Balancer, Route53)
-- **[Devops]**: AWS EC2, Github Action
-- **[UI/UX]**: Figma
-- **[ETC]**: Git, Sourcetree, Slack, Notion
+![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/a7e83447-0431-4364-a36d-7af5bb45855a)
+![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/e51e0345-c47c-492d-84d6-9758c4c81c86)
+![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/8c4fb995-7406-4f9f-919d-f6708c690e1a)
+
+![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/8705dafb-ab63-46fa-b904-061b9a45f0c9)
 
 ---
 
