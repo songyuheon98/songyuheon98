@@ -28,6 +28,9 @@
 - 📚 최신 백엔드 기술 및 트렌드에 대한 높은 관심과 지속적인 학습을 통해 기술 스택을 확장하고 있습니다.
 
 ## 🛠 Skills
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyuheon98&layout=compact)
+
 ### Main
 ![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/9e4aa00e-a616-44c2-8380-d53ee2ba8fd3)
 ![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/77936a3d-819c-4586-bcb5-722c106b82ca)
