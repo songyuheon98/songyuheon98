@@ -40,8 +40,10 @@
 ### Sub Language
 ![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/a7e83447-0431-4364-a36d-7af5bb45855a)
 ![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/e51e0345-c47c-492d-84d6-9758c4c81c86)
-![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/8c4fb995-7406-4f9f-919d-f6708c690e1a)
+![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/8c4fb995-7406-4f9f-919d-f6708c690e1a)<br>
 ![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/ecd4d5bc-2e35-42be-8426-a495eeb647bc)
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+
 
 ### Database
 ![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/5c11b466-682a-4840-9bd9-0fa56581601c)
