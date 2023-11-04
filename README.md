@@ -30,7 +30,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyuheon98&layout=compact)
 
-### Main
+### Main Language
 ![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/9e4aa00e-a616-44c2-8380-d53ee2ba8fd3)
 ![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/77936a3d-819c-4586-bcb5-722c106b82ca)
 ![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/274bd6ac-fa75-4dfc-960b-515899da417c)<br>
