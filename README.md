@@ -17,7 +17,6 @@
 ## 📬 Contact
 
 - 📧 Email: [songyuheon2750@kakao.com](mailto:songyuheon2750@kakao.com)
-- 🌐 Github: [github.com/songyuheon98](https://github.com/songyuheon98/)
 - 📝 블로그: [velog.io/@songyuheon](https://velog.io/@songyuheon)
     
   
