@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=C03BF7&center=true&random=false&width=1000&lines=Nice+to+meet+you!!;My+name+is+Song+Yuheon%2C+and+I+am+a+backend+developer+who+always+pursues+growth!!)](https://git.io/typing-svg)
 
+![YuHeon Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyuheon98&show_icons=true)
+
 ## 안녕하세요!! 저는 백엔드 개발자 송유헌입니다!!
 
 ## 🙋‍♂️ Introduce
