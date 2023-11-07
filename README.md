@@ -34,17 +34,21 @@
 <div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Java-004088?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white">
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
+
+    
 </div>
 
 ### Sub Language
-![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/a7e83447-0431-4364-a36d-7af5bb45855a)
-![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/e51e0345-c47c-492d-84d6-9758c4c81c86)
-![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/8c4fb995-7406-4f9f-919d-f6708c690e1a)<br>
-![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/ecd4d5bc-2e35-42be-8426-a495eeb647bc)
+<div>
+<img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-
+</div>
 
 ### Database
 ![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/5c11b466-682a-4840-9bd9-0fa56581601c)
