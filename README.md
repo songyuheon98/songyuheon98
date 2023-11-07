@@ -31,11 +31,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyuheon98&layout=compact)
 
 ### Main Language
-![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/9e4aa00e-a616-44c2-8380-d53ee2ba8fd3)
-![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/77936a3d-819c-4586-bcb5-722c106b82ca)
-![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/274bd6ac-fa75-4dfc-960b-515899da417c)<br>
-![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/a6aa3787-c970-49e3-a441-51aa63b8a0e4)
-
+<div>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Java-004088?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white">
+</div>
 
 ### Sub Language
 ![image](https://github.com/songyuheon98/songyuheon98/assets/140541167/a7e83447-0431-4364-a36d-7af5bb45855a)
