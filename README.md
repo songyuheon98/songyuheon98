@@ -30,7 +30,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyuheon98&layout=compact)
 
-### Main Language
+### BackEnd
 <div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -41,7 +41,7 @@
     
 </div>
 
-### Sub Language
+### FrontEnd
 <div>
 <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
