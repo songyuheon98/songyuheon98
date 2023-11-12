@@ -103,6 +103,36 @@
 - AWS를 사용한 HTTPS 서비스 및 로드밸런싱 구현
 - Slack Webhook을 이용한 로그 관리 시스템 구축
 
+
+### 🦋 누리책마루
+
+#### 주요 업무 및 성과
+DevOps
+- CI/CD (GitHub Actions, AWS [S3, CodeDeploy, EC2] )환경 구축
+- DNS 설정 적용 및 로드 밸런서를 통해 HTTPS 보안 통신과 서버 부하 분산을 구축 ( AWS [ ACM, ALB, Route 53, EC2 ] )
+- Spring Security에 JWT 토큰 인증 방식 적용
+- 서버 스케일 업 진행 ( EC2, RDS )
+
+기초 MVP 기능 구현
+- 책 나눔 이벤트 관리 API 개발
+- 책 나눔 이벤트 도서 설정 API 개발
+- 책 나눔 이벤트 신청 유저 API 개발
+- 관리자의 유저 관리 API 개발
+
+마이크로서비스 아키텍처 구현
+- 카프카 구현 및 배포 ( AWS EC2 )
+- 카프카 성능 개선 및 성능 테스트
+- Redis 분산락 구현 및 배포 ( AWS EC2 )
+
+검색기능개선
+- 쿼리 최적화(QueryDSL 적용)
+- 페이징 및 슬라이스 적용
+- N+1 문제 완화 ( Fetch Join )
+
+동시성 제어
+- 세마포어, 뮤텍스, 레디스 분산락 구현 및 테스트
+
+
 ---
 
 ## 📚 Education
