@@ -103,6 +103,7 @@
 - AWS를 사용한 HTTPS 서비스 및 로드밸런싱 구현
 - Slack Webhook을 이용한 로그 관리 시스템 구축
 
+---
 
 ### 🦋 누리책마루 (2023.10.04 - 2023.11.15)
 - 📺 **시연영상:** [YouTube](https://www.youtube.com/watch?v=1orL2sn5y3k)
