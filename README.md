@@ -20,7 +20,6 @@
 
 ## 🛠 Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyuheon98&layout=compact)
 
 **BackEnd**
 <div>
