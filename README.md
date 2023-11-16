@@ -1,4 +1,4 @@
-# YuHeon | 성장을 추구하는 개발자
+# YuHeon 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=C03BF7&center=true&random=false&width=1000&lines=Nice+to+meet+you!!;My+name+is+Song+Yuheon%2C+and+I+am+a+backend+developer+who+always+pursues+growth!!)](https://git.io/typing-svg)
 
