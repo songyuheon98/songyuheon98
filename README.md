@@ -10,7 +10,7 @@
     
 ---
 
-## Career 
+## ✨ Career 
 * 2023.08 - 2023.11 : HangHae99
     * 2023.10 - 2023.11 : [누리책마루](https://github.com/songyuheon98/Team258)
     * 2023.09 - 2023.09 : [Trello](https://github.com/songyuheon98/SpecialtyProjects)
