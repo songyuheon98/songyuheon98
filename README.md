@@ -15,17 +15,9 @@
 
 
 ## 📬 Contact
-
 - 📧 Email: [songyuheon2750@kakao.com](mailto:songyuheon2750@kakao.com)
 - 📝 블로그: [velog.io/@songyuheon](https://velog.io/@songyuheon)
     
-  
- 
-## 💪 Core Competency
-
-- 🗣️ 팀원들과의 원활한 커뮤니케이션을 중시하며, 다양한 의견과 피드백을 적극적으로 수용합니다.
-- 📚 최신 백엔드 기술 및 트렌드에 대한 높은 관심과 지속적인 학습을 통해 기술 스택을 확장하고 있습니다.
-
 ## 🛠 Skills
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyuheon98&layout=compact)
@@ -83,73 +75,12 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><br>
 </div>
 
-
-
-
-
 ---
 
-## 📁 Projects
-
-### 📋 Trello (2023.09.15 - 2023.09.27)
-- 📺 **시연영상**: [YouTube](https://www.youtube.com/watch?v=u5If0C-5LOY&t=13s)
-- 🐙 **Github**: [Repository](https://github.com/songyuheon98/SpecialtyProjects)
-- 📖 **Velog**: [칸반 보드를 활용한 트렐로 웹 서비스](https://velog.io/@songyuheon/칸반-보드를-활용한-트렐로-웹-서비스)
-
-#### 주요 업무 및 성과
-- 팀장 역할 수행, 백엔드 API 및 테스트 코드 구현
-- Spring Security와 JWT Token을 활용한 로그인 인증 서비스 구축
-- CI/CD 파이프라인 구축 (Github Action, AWS EC2)
-- AWS를 사용한 HTTPS 서비스 및 로드밸런싱 구현
-- Slack Webhook을 이용한 로그 관리 시스템 구축
-
----
-
-### 🦋 누리책마루 (2023.10.04 - 2023.11.15)
-- 📺 **시연영상:** [YouTube](https://www.youtube.com/watch?v=1orL2sn5y3k)
-- 🐙 **Github**: [Main Server](https://github.com/songyuheon98/Team258), [Event Server](https://github.com/songyuheon98/Team258_EventApplyServer)
-- 📖 **Notion** : [누리책마루](https://ohnyong.notion.site/TechBlog-TEAM-258-1fcb896ca14947c58d46473f1f7436bd?pvs=4)
-
-#### 주요 업무 및 성과
-- **DevOps**
-    - CI/CD (GitHub Actions, AWS [S3, CodeDeploy, EC2] )환경 구축
-    - DNS 설정 적용 및 로드 밸런서를 통해 HTTPS 보안 통신과 서버 부하 분산을 구축 ( AWS [ ACM, ALB, Route 53, EC2 ] )
-    - Spring Security에 JWT 토큰 인증 방식 적용
-    - 서버 스케일 업 진행 ( EC2, RDS )
-
-- **기초 MVP 기능 구현**
-    - 책 나눔 이벤트 관리 API 개발
-    - 책 나눔 이벤트 도서 설정 API 개발
-    - 책 나눔 이벤트 신청 유저 API 개발
-    - 관리자의 유저 관리 API 개발
-    - 테스트 코드 작성
-
-- **마이크로서비스 아키텍처 구현**
-    - 카프카 구현 및 배포 ( AWS EC2 )
-    - 카프카 성능 개선 및 성능 테스트
-    - Redis 분산락 구현 및 배포 ( AWS EC2 )
-
-- **검색기능개선**
-    - 쿼리 최적화(QueryDSL 적용)
-    - 페이징 및 슬라이스 적용
-    - N+1 문제 완화 ( Fetch Join )
-
-- **동시성 제어**
-    - 세마포어, 뮤텍스, 레디스 분산락 구현 및 테스트
+## Career 
+* 2023.08 - 2023.11 : HangHae99
+    * 2023.10 - 2023.11 : [누리책마루](https://github.com/songyuheon98/Team258)
+    * 2023.09 - 2023.09 : [Trello](https://github.com/songyuheon98/SpecialtyProjects)
+* 2018.03 - 2024.02 : Sangmyung University Department of Information Security Engineering ( GPA: 4.02/4.5 )
 
 
----
-
-## 📚 Education
-
-### 🏫 상명대학교 (2018.03 - 2024.02)
-- 전공: 정보보안공학
-- GPA: 4.02/4.5
-
-### 🚀 항해99 부트캠프 (2023.08 - 2023.11)
-- 주요 학습 내용: Java, SpringBoot, JPA
-
-, ERD, AWS
-- 팀 프로젝트 참여
-    - Trello 웹 플랫폼 제작 ( 완료 ) 
-    - 책 관리 웹 플랫폼 제작 ( 진행중 ~ )
