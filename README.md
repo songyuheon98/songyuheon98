@@ -29,10 +29,25 @@
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?&logo=Spring Security&logoColor=white">
 <img src="https://img.shields.io/badge/Java-004088?&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Gradle-02303A?&logo=Gradle?&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/MySQL-3776AB?&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Junit5-25A162?&logo=Junit5&logoColor=white">
 <img src="https://img.shields.io/badge/Apache JMeter-D22128?&logo=Apache JMeter&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-E34F15?&logo=Postman&logoColor=white">    
+<img src="https://img.shields.io/badge/Postman-E34F15?&logo=Postman&logoColor=white"> 
+    
 </div>
+
+
+**DevOps**
+<div>
+    <img src="https://img.shields.io/badge/GitHub Actions-181717?&logo=GitHub Actions&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon AWS-231F20?&logo=Amazon AWS&logoColor=white">
+</div>
+
+**Streaming / Messaging**
+<div>
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?&logo=Apache Kafka&logoColor=white"><br>
+</div>
+
 
 **FrontEnd**
 <div>
@@ -47,25 +62,8 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?&logo=C&logoColor=white">
 </div>
 
-**Database**
-<div>
-    <img src="https://img.shields.io/badge/MySQL-3776AB?&logo=MySQL&logoColor=white">
-</div>
-
-
-**Streaming / Messaging**
-<div>
-<img src="https://img.shields.io/badge/Apache Kafka-231F20?&logo=Apache Kafka&logoColor=white"><br>
-</div>
-
-**DevOps**
-<div>
-    <img src="https://img.shields.io/badge/GitHub Actions-181717?&logo=GitHub Actions&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon AWS-231F20?&logo=Amazon AWS&logoColor=white">
-</div>
 
 **Tools**
-
 <div>
 <img src="https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Git-181717?&logo=Git&logoColor=white">
