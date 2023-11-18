@@ -1,22 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=YuHeon&amp;fontAlign=74&amp;fontAlignY=40&amp;color=gradient" style="max-width: 100%;">
+<a href = "https://velog.io/@songyuheon/series"><img src="https://img.shields.io/badge/Velog Blog-6DB33F?style=&amp;logo=Velog&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href = "mailto:songyuheon2750@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=C03BF7&center=true&random=false&width=1000&lines=Nice+to+meet+you!!;My+name+is+Song+Yuheon%2C+and+I+am+a+backend+developer+who+always+pursues+growth!!)](https://git.io/typing-svg)
-
-![YuHeon Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyuheon98&show_icons=true&theme=radical)
-
-## 📬 Contact
-- 📧 Email: [songyuheon2750@kakao.com](mailto:songyuheon2750@kakao.com)
-- 📝 블로그: [velog.io/@songyuheon](https://velog.io/@songyuheon)
-    
----
-
-## ✨ Career 
-* 2023.08 - 2023.11 : HangHae99
-    * 2023.10 - 2023.11 : [누리책마루](https://github.com/songyuheon98/Team258)
-    * 2023.09 - 2023.09 : [Trello](https://github.com/songyuheon98/SpecialtyProjects)
-* 2018.03 - 2024.02 : Sangmyung University Department of Information Security Engineering ( GPA: 4.02/4.5 )
-
----
 
 ## 🛠 Skills
 **BackEnd**
@@ -70,5 +56,17 @@
 </div>
 
 ---
+
+
+## ✨ Career 
+* 2023.08 - 2023.11 : HangHae99
+    * 2023.10 - 2023.11 : [누리책마루](https://github.com/songyuheon98/Team258)
+    * 2023.09 - 2023.09 : [Trello](https://github.com/songyuheon98/SpecialtyProjects)
+* 2018.03 - 2024.02 : Sangmyung University Department of Information Security Engineering ( GPA: 4.02/4.5 )
+
+---
+
+## GitHub Stats
+![YuHeon Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyuheon98&show_icons=true&theme=radical)
 
 
