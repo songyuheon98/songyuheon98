@@ -70,7 +70,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=songyuheon98&show_icons=true&theme=radical" alt="YuHeon Song's GitHub stats" style="margin: 10px; height: 140px; width: 330px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIEUN24&layout=compact&theme=buefy" alt="Top Langs" style="margin: 10px; height: 140px; width: 330px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songyuheon98&layout=compact&theme=buefy" alt="Top Langs" style="margin: 10px; height: 140px; width: 330px;">
 </div>
 
 
