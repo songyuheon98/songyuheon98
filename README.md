@@ -61,7 +61,7 @@
 ## ✨ Career 
 * 2023.08 - 2023.11 : HangHae99
     * 2023.10 - 2023.11 : [누리책마루](https://sunrise-cuticle-c92.notion.site/fd67d9c223744a84bf68b1cc7bda738a?pvs=4)
-    * 2023.09 - 2023.09 : [Trello](https://sunrise-cuticle-c92.notion.site/Trello-cc8a9573b775418bb6aa43093c4f13fc?pvs=4)
+    * 2023.09 - 2023.09 : [Trello](https://sunrise-cuticle-c92.notion.site/Trello-bd3d08f8a25a4d7e885a93170dc25eef?pvs=4)
 * 2018.03 - 2024.02 : Sangmyung University Department of Information Security Engineering ( GPA: 4.02/4.5 )
 
 ---
