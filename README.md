@@ -64,9 +64,9 @@
     * 2023.09 - 2023.09 : [Trello](https://sunrise-cuticle-c92.notion.site/Trello-bd3d08f8a25a4d7e885a93170dc25eef?pvs=4)
 * 2018.03 - 2024.02 : Sangmyung University Department of Information Security Engineering ( GPA: 4.02/4.5 )
     * 팀 프로젝트
-      - NIR 플라스틱 재질 식별 AI 시스템
+      - [NIR 플라스틱 재질 식별 AI 시스템](https://drive.google.com/file/d/1BRlCxclH8ug_OEg2zrruthxaOh4qaSxy/view?usp=sharing)
     * 졸업 프로젝트
-      - 머신러닝 이미지 학습을 통한 악성 EXE File 탐지 시스템
+      - [머신러닝 이미지 학습을 통한 악성 EXE File 탐지 시스템](https://drive.google.com/file/d/1g0RQgFdNeksxOODvySsgxGXIOK5Hk9mZ/view?usp=sharing)
 ---
 
 ## 📋 GitHub Stats
